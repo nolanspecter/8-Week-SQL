@@ -5,14 +5,24 @@
 2. How many days has each customer visited the restaurant?
 
     **Customer A** visited the restaurant on **4** different days, **customer B** visited on **6** days , and **customer C** visited on **2** days. SQL query statement can be found at [query_2.sql](query_2.sql)
+
+
 3. What was the first item from the menu purchased by each customer?
 
     The first item that both **customer A and B** ordered was **curry**, and **customer C**'s first order was **ramen**. SQL query statement can be found at [query_3.sql](query_3.sql)
+
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
     The most purchased item is **the ramen**, which was ordered **8 times**. SQL query statement can be found at [query_4.sql](query_4.sql)
+
 5. Which item was the most popular for each customer?
+
+     
+
 6. Which item was purchased first by the customer after they became a member?
+
+    After becoming a member, **customer A**first ordered **curry** and **customer B** ordered **sushi**. **Customer C** is **not a member**.SQL query statement can be found at [query_6.sql](query_6.sql)
+
 7. Which item was purchased just before the customer became a member?
 8. What is the total items and amount spent for each member before they became a member?
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
