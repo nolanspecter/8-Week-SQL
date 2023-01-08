@@ -6,6 +6,8 @@
 
     **Customer A** visited the restaurant on **4** different days, **customer B** visited on **6** days , and **customer C** visited on **2** days. SQL query statement can be found at [query_2.sql](query_2.sql)
 3. What was the first item from the menu purchased by each customer?
+
+    The first item that both **customer A and B** ordered was **curry**, and **customer C**'s first order was **ramen**. SQL query statement can be found at [query_3.sql](query_3.sql)
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 5. Which item was the most popular for each customer?
 6. Which item was purchased first by the customer after they became a member?
