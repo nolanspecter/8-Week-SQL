@@ -1,7 +1,10 @@
 1. What is the total amount each customer spent at the restaurant?
 
-    In total, customer A spent $76, customer B spent $74, and customer C spent $36 at the restaurant. SQL query statement can be found at [query_1.sql](query_1.sql)
+    In total, **customer A** spent **$76**, **customer B** spent **$74**, and **customer C** spent **$36** at the restaurant. SQL query statement can be found at [query_1.sql](query_1.sql)
+
 2. How many days has each customer visited the restaurant?
+
+    **Customer A** visited the restaurant on **4** different days, **customer B** visited on **6** days , and **customer C** visited on **2** days. SQL query statement can be found at [query_2.sql](query_2.sql)
 3. What was the first item from the menu purchased by each customer?
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 5. Which item was the most popular for each customer?
