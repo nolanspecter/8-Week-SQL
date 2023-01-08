@@ -17,7 +17,7 @@
 
 5. Which item was the most popular for each customer?
 
-     
+     **Ramen** was the most poplar among all three customers with **customer A and C** ordered it **3 times** each, **customer B** ordered **2 times**. SQL query statement can be found at [query_5.sql](query_5.sql)
 
 6. Which item was purchased first by the customer after they became a member?
 
