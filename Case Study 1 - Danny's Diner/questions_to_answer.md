@@ -9,6 +9,8 @@
 
     The first item that both **customer A and B** ordered was **curry**, and **customer C**'s first order was **ramen**. SQL query statement can be found at [query_3.sql](query_3.sql)
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
+
+    The most purchased item is **the ramen**, which was ordered **8 times**. SQL query statement can be found at [query_4.sql](query_4.sql)
 5. Which item was the most popular for each customer?
 6. Which item was purchased first by the customer after they became a member?
 7. Which item was purchased just before the customer became a member?
