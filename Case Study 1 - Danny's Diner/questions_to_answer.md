@@ -28,4 +28,7 @@
 8. What is the total items and amount spent for each member before they became a member?
     **Customer A** ordered **2 items** with a total of **$25** before becoming a member. **Customer B** ordered **3 items** with a total of **$40** before becoming a member. **Customer C** is **not a member**. SQL query statement can be found at [query_8.sql](query_8.sql)
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+    - **Customer A** would have **860 points**
+    - **Customer B** would have **940 points**
+    - **Customer C** would have **360 points**
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
