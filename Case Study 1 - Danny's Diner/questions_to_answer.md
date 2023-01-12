@@ -21,7 +21,7 @@
 
 6. Which item was purchased first by the customer after they became a member?
 
-    After becoming a member, **customer A**first ordered **curry** and **customer B** ordered **sushi**. **Customer C** is **not a member**.SQL query statement can be found at [query_6.sql](query_6.sql)
+    After becoming a member, **customer A** first ordered **curry** and **customer B** ordered **sushi**. **Customer C** is **not a member**.SQL query statement can be found at [query_6.sql](query_6.sql)
 
 7. Which item was purchased just before the customer became a member?
     Both **customer A and B** ordered **sushi** just before they became a member. **Customer C** is **not a member**. SQL query statement can be found at [query_7.sql](query_7.sql)
@@ -31,4 +31,9 @@
     - **Customer A** would have **860 points**
     - **Customer B** would have **940 points**
     - **Customer C** would have **360 points**
+    - SQL query statement can be found at [query_9.sql](query_9.sql)
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+    - **Customer A** would have **1020 points**
+    - **Customer B** would have **440 points**
+    - **Customer C** is **not a member**
+    - SQL query statement can be found at [query_10.sql](query_10.sql)
