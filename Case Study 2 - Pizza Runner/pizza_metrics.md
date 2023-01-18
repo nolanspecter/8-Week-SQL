@@ -2,8 +2,13 @@
 1. How many pizzas were ordered?
 
 - 14
+- SQL query statement can be found at [query_1_pizza_metrics.sql](query_1_pizza_metrics.sql)
 
 2. How many unique customer orders were made?
+
+- 10
+- SQL query statement can be found at [query_2_pizza_metrics.sql](query_2_pizza_metrics.sql)
+
 3. How many successful orders were delivered by each runner?
 4. How many of each type of pizza was delivered?
 5. How many Vegetarian and Meatlovers were ordered by each customer?
