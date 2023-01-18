@@ -17,6 +17,11 @@
 - SQL query statement can be found at [query_3_pizza_metrics.sql](query_3_pizza_metrics.sql)
 
 4. How many of each type of pizza was delivered?
+
+- Meatlovers was ordered 10 times
+- Vegetarian was ordered 4 times
+- SQL query statement can be found at [query_4_pizza_metrics.sql](query_4_pizza_metrics.sql)
+
 5. How many Vegetarian and Meatlovers were ordered by each customer?
 6. What was the maximum number of pizzas delivered in a single order?
 7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
