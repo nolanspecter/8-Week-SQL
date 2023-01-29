@@ -58,5 +58,6 @@
 - **1** pizza was ordered at **7 pm**
 - **3** pizzas were ordered at **9 pm**
 - **3** pizzas were ordered at **11 pm**
-- - SQL query statement can be found at [query_9_pizza_metrics.sql](query_9_pizza_metrics.sql)
+- SQL query statement can be found at [query_9_pizza_metrics.sql](query_9_pizza_metrics.sql)
+
 10. What was the volume of orders for each day of the week?
