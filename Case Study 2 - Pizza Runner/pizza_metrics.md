@@ -61,3 +61,9 @@
 - SQL query statement can be found at [query_9_pizza_metrics.sql](query_9_pizza_metrics.sql)
 
 10. What was the volume of orders for each day of the week?
+
+- **5** orders were made on **Wednesday**
+- **2** orders were made on **Thursday**
+- **1** order was made on **Friday**
+- **2** orders were made on **Saturday**
+- SQL query statement can be found at [query_10_pizza_metrics.sql](query_10_pizza_metrics.sql)
