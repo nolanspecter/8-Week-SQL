@@ -44,6 +44,10 @@
 - Customer **104** had **1 pizzas with no changes** and **2 pizzas with at least 1 change** delivered
 - Customer **105** had **0 pizzas with no changes** and **1 pizzas with at least 1 change** delivered
 - SQL query statement can be found at [query_7_pizza_metrics.sql](query_7_pizza_metrics.sql)
+
 8. How many pizzas were delivered that had both exclusions and extras?
+
+- There were only **1** pizza were delivered that had both exclusions and extras
+
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
