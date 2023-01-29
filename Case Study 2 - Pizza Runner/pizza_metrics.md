@@ -32,6 +32,10 @@
 - SQL query statement can be found at [query_5_pizza_metrics.sql](query_5_pizza_metrics.sql)
 
 6. What was the maximum number of pizzas delivered in a single order?
+
+- Order number **4** had the most pizzas delivered.
+- SQL query statement can be found at [query_6_pizza_metrics.sql](query_6_pizza_metrics.sql)
+
 7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
 8. How many pizzas were delivered that had both exclusions and extras?
 9. What was the total volume of pizzas ordered for each hour of the day?
