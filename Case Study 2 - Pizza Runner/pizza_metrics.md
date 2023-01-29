@@ -23,6 +23,14 @@
 - SQL query statement can be found at [query_4_pizza_metrics.sql](query_4_pizza_metrics.sql)
 
 5. How many Vegetarian and Meatlovers were ordered by each customer?
+
+- Customer **101** ordered **2 Meatlovers** and **1 Vegetarian**
+- Customer **102** ordered **2 Meatlovers** and **1 Vegetarian** 
+- Customer **103** ordered **3 Meatlovers** and **1 Vegetarian** 
+- Customer **104** ordered **3 Meatlovers** and **0 Vegetarian** 
+- Customer **105** ordered **0 Meatlovers** and **1 Vegetarian**  
+- SQL query statement can be found at [query_5_pizza_metrics.sql](query_5_pizza_metrics.sql)
+
 6. What was the maximum number of pizzas delivered in a single order?
 7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
 8. How many pizzas were delivered that had both exclusions and extras?
