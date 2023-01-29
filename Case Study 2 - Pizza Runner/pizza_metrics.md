@@ -48,6 +48,15 @@
 8. How many pizzas were delivered that had both exclusions and extras?
 
 - There were only **1** pizza were delivered that had both exclusions and extras
+- SQL query statement can be found at [query_8_pizza_metrics.sql](query_8_pizza_metrics.sql)
 
 9. What was the total volume of pizzas ordered for each hour of the day?
+
+- **1** pizza was ordered at **11 am**
+- **3** pizzas were ordered at **1 pm**
+- **3** pizzas were ordered at **6 pm**
+- **1** pizza was ordered at **7 pm**
+- **3** pizzas were ordered at **9 pm**
+- **3** pizzas were ordered at **11 pm**
+- - SQL query statement can be found at [query_9_pizza_metrics.sql](query_9_pizza_metrics.sql)
 10. What was the volume of orders for each day of the week?
