@@ -37,6 +37,13 @@
 - SQL query statement can be found at [query_6_pizza_metrics.sql](query_6_pizza_metrics.sql)
 
 7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
+
+- Customer **101** had **2 pizzas with no changes** and **0 pizzas with at least 1 change** delivered
+- Customer **102** had **3 pizzas with no changes** and **0 pizzas with at least 1 change** delivered
+- Customer **103** had **0 pizzas with no changes** and **3 pizzas with at least 1 change** delivered
+- Customer **104** had **1 pizzas with no changes** and **2 pizzas with at least 1 change** delivered
+- Customer **105** had **0 pizzas with no changes** and **1 pizzas with at least 1 change** delivered
+- SQL query statement can be found at [query_7_pizza_metrics.sql](query_7_pizza_metrics.sql)
 8. How many pizzas were delivered that had both exclusions and extras?
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
