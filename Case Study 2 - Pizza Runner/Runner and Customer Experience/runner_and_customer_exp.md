@@ -30,6 +30,8 @@ to get to the Pizza Runner HQ
 
 5. What was the difference between the longest and shortest delivery times for all orders?
 
+- The diffence betwwen the longest (**29 minutes and 17 seconds**) and the shortest (**10 minutes and 2 seconds**) is **19 minutes and 15 seconds**.
+- SQL query statement can be found at [query_5.sql](query_5.sql)
 
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
 7. What is the successful delivery percentage for each runner?
