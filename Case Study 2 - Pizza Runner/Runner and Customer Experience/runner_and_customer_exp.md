@@ -15,7 +15,12 @@ to get to the Pizza Runner HQ
 
 
 3. Is there any relationship between the number of pizzas and how long the order takes to prepare?
+
+- We can see that the more pizzas there are in a order, the longer it took from the time it was ordered to when it was picked up
+- SQL query statement can be found at [query_3.sql](query_3.sql)
+
 4. What was the average distance travelled for each customer?
+
 5. What was the difference between the longest and shortest delivery times for all orders?
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
 7. What is the successful delivery percentage for each runner?
