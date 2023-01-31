@@ -21,6 +21,13 @@ to get to the Pizza Runner HQ
 
 4. What was the average distance travelled for each customer?
 
+- The average for customer **101** is **20 km**
+- The average for customer **102** is **16.73 km**
+- The average for customer **103** is **23.4 km**
+- The average for customer **104** is **10 km**
+- The average for customer **105** is **25 km**
+- SQL query statement can be found at [query_4.sql](query_4.sql)
+
 5. What was the difference between the longest and shortest delivery times for all orders?
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
 7. What is the successful delivery percentage for each runner?
