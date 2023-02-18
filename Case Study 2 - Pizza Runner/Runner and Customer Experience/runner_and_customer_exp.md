@@ -39,6 +39,12 @@ to get to the Pizza Runner HQ
 - The average speed of **runner 2** is **62.90 km/h**
 - The average speed of **runner 3** is **40 km/h**
 - From the data, we can see that **runner 3** always travel at **40km/h** while the speed of **runner 2** varies the most with the **range from 35.10 to 93.6 km/h**
+- SQL query statement can be found at [query_6.sql](query_6.sql)
 
 
 7. What is the successful delivery percentage for each runner?
+- **Runner 1** has the successful delivery percentage of **100%**
+- **Runner 2** has the successful delivery percentage of **75%**
+- **Runner 3** has the successful delivery percentage of **50%**
+- Unsucesseful deliveries were not due to runners. Cancellations are out of runners' control
+- - SQL query statement can be found at [query_7.sql](query_7.sql)
