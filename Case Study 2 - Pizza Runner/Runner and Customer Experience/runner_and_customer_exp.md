@@ -34,4 +34,11 @@ to get to the Pizza Runner HQ
 - SQL query statement can be found at [query_5.sql](query_5.sql)
 
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
+
+- The average speed of **runner 1** is **45.54 km/h**
+- The average speed of **runner 2** is **62.90 km/h**
+- The average speed of **runner 3** is **40 km/h**
+- From the data, we can see that **runner 3** always travel at **40km/h** while the speed of **runner 2** varies the most with the **range from 35.10 to 93.6 km/h**
+
+
 7. What is the successful delivery percentage for each runner?
